@@ -33,6 +33,7 @@
                         <input type="text" name="message" placeholder="Enter a message"/>
                         <br/>
                         <input class="shout-btn" type="submit" name="submit" value="Shout It Out"/>
+                        <p>test</p>
                     </form>
                 </div>
             </header>
