@@ -11,6 +11,7 @@
     <head>
         <title>SHOUT IT!</title>
         <link rel="stylesheet" href="css/style.css" text="text/css" />
+        <link rel="stylesheet" href="css/main.css" text="text/css" />
     </head>
     <body>
         <div id="container">
